@@ -1,5 +1,5 @@
-<h2 align="left">Hi! My name is Emir Elçuk and I'm a Computer Engineering student at Atılım University.🦁</h2>
-
+<h2 align="left">Hi! My name is Emir Elçuk</h2>
+<h2 align="left">I'm a Computer Engineering student at Atılım University.🦁</h2>
 ###
 
 <div align="center">
