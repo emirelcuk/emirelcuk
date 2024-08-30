@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋, I'm Emir Elçuk</h2>
-<h2 align="left">I'm a Computer Engineering student at Atılım University.🦁</h2>
+![image](https://github.com/user-attachments/assets/85f8503e-500c-42a2-8f93-53c199f4478e)
 
 
 <div align="center">
@@ -10,8 +9,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
   <img width="12" />
@@ -27,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+
 </div>
 
 ###
