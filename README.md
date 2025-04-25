@@ -1,5 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/31c00fb5-5e14-4aa7-9d95-98137ecb7b23)
 <br clear="both">
 
 <div align="center">
